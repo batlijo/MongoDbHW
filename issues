@@ -1,0 +1,6 @@
+can't download heroku into mongodb hw directory.
+
+says i dont have user access when i enter this in the command line: npm install -g heroku-cli
+need this so i can do the heroku lab thing
+
+Look at Saturday’s hw class activity 20-scraping-with-mongoose for reference
