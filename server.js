@@ -1,3 +1,6 @@
+// look at activity 20... i am missing app.js and need code in my html
+// it needs to work locally... send to jenn and paul to test out.
+
 var express = require("express");
 var bodyParser = require("body-parser");
 var logger = require("morgan");
